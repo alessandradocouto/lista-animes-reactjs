@@ -1,0 +1,22 @@
+.pagination {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 2.5em auto;
+}
+
+.pagination__item, .pagination__item--active {
+    padding: 1em 0.65em;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.pagination__item:hover{
+    color: rgb(148, 148, 148);
+}
+
+.pagination__item--active{
+    font-weight: 600;
+}
