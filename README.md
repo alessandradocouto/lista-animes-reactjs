@@ -1,9 +1,9 @@
 # Lista de Animes com React JS
 
-[Preview pagina](https://github.com/alessandradocouto/lista-animes-reactjs/blob/master/src/images/anime.png).
+![Preview do projeto](https://raw.githubusercontent.com/alessandradocouto/lista-animes-reactjs/master/src/images/anime.png)
 
 
-[Preview search](https://github.com/alessandradocouto/lista-animes-reactjs/blob/master/src/images/search.png).
+![Preview search](https://raw.githubusercontent.com/alessandradocouto/lista-animes-reactjs/master/src/images/search.png)
 
 
 - [x] Uso de Hooks: useState e useEffect
