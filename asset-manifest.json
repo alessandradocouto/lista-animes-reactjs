@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lista-animes-reactjs/static/css/main.a981b9b5.css",
+    "main.js": "/lista-animes-reactjs/static/js/main.6e941c98.js",
+    "index.html": "/lista-animes-reactjs/index.html",
+    "main.a981b9b5.css.map": "/lista-animes-reactjs/static/css/main.a981b9b5.css.map",
+    "main.6e941c98.js.map": "/lista-animes-reactjs/static/js/main.6e941c98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a981b9b5.css",
+    "static/js/main.6e941c98.js"
+  ]
+}
